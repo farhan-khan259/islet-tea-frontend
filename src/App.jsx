@@ -3,6 +3,7 @@ import { fallbackProduct } from "./catalog";
 import ProductIntro from "./components/ProductIntro";
 import Story from "./components/Story";
 import OrderForm from "./components/OrderForm";
+import { apiUrl } from "./api";
 export default function App() {
   const [product, setProduct] = useState(fallbackProduct),
     [apiReady, setApiReady] = useState(false);
@@ -12,7 +13,7 @@ export default function App() {
     async function connect() {
       try {
         const response = await fetch(
-          "/api/products/organic-islet-fruit-tea",
+          apiUrl("/api/products/organic-islet-fruit-tea"),
         );
         if (!response.ok) throw Error();
         const nextProduct = await response.json();
