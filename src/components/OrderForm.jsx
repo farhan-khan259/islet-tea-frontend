@@ -1,5 +1,6 @@
 import { useRef, useState } from "react";
 import { money } from "../catalog";
+import { apiUrl } from "../api";
 export default function OrderForm({ product, apiReady }) {
   const [selected, setSelected] = useState("six"),
     [delivery, setDelivery] = useState("home"),
@@ -19,7 +20,7 @@ export default function OrderForm({ product, apiReady }) {
     setBusy(true);
     const f = Object.fromEntries(new FormData(e.currentTarget));
     try {
-      const res = await fetch("/api/orders", {
+      const res = await fetch(apiUrl("/api/orders"), {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
