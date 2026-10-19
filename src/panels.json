@@ -1,0 +1,107 @@
+[
+  {
+    "id": 0,
+    "src": "/assets/panel-00.webp",
+    "width": 725,
+    "height": 2170,
+    "alt": "Product introduction, returns guarantee, sales and farm entrance"
+  },
+  {
+    "id": 1,
+    "src": "/assets/panel-01.webp",
+    "width": 725,
+    "height": 2170,
+    "alt": "Farm visit, harvesting and the ingredient benefit chart"
+  },
+  {
+    "id": 2,
+    "src": "/assets/panel-02.webp",
+    "width": 725,
+    "height": 2170,
+    "alt": "Ingredient growing environment and television segments"
+  },
+  {
+    "id": 3,
+    "src": "/assets/panel-03.webp",
+    "width": 725,
+    "height": 2170,
+    "alt": "Lifestyle factors and common health concerns"
+  },
+  {
+    "id": 4,
+    "src": "/assets/panel-04.webp",
+    "width": 725,
+    "height": 2170,
+    "alt": "Television feature, lifestyle illustrations and product imagery"
+  },
+  {
+    "id": 5,
+    "src": "/assets/panel-05.webp",
+    "width": 725,
+    "height": 2170,
+    "alt": "Customer stories and before and after demonstration images"
+  },
+  {
+    "id": 6,
+    "src": "/assets/panel-06.webp",
+    "width": 725,
+    "height": 2170,
+    "alt": "Customer stories and natural Islet Fruit Tea introduction"
+  },
+  {
+    "id": 7,
+    "src": "/assets/panel-07.webp",
+    "width": 725,
+    "height": 2170,
+    "alt": "Jar packaging, a freshly brewed cup, and hand-selected slices"
+  },
+  {
+    "id": 8,
+    "src": "/assets/panel-08.webp",
+    "width": 725,
+    "height": 2170,
+    "alt": "Carefully selected tea slices and growing environment"
+  },
+  {
+    "id": 9,
+    "src": "/assets/panel-09.webp",
+    "width": 725,
+    "height": 2170,
+    "alt": "Farm origin and a golden cup of tea"
+  },
+  {
+    "id": 10,
+    "src": "/assets/panel-10.webp",
+    "width": 725,
+    "height": 2170,
+    "alt": "Natural flavor, sliced ingredients and a serving bowl"
+  },
+  {
+    "id": 11,
+    "src": "/assets/panel-11.webp",
+    "width": 725,
+    "height": 2170,
+    "alt": "Food safety, no additives, and gift suggestions"
+  },
+  {
+    "id": 12,
+    "src": "/assets/panel-12.webp",
+    "width": 725,
+    "height": 2170,
+    "alt": "Customer feedback and before and after photographs"
+  },
+  {
+    "id": 13,
+    "src": "/assets/panel-13.webp",
+    "width": 725,
+    "height": 2170,
+    "alt": "Product certification artwork and serving photographs"
+  },
+  {
+    "id": 14,
+    "src": "/assets/panel-14.webp",
+    "width": 725,
+    "height": 2170,
+    "alt": "Ingredient photographs, packaging and product specifications"
+  }
+]
